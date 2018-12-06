@@ -1,7 +1,9 @@
 # Game-InfiniteRunner
+Modify from 3D InfiniteRunner
+
 [![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=InfiniteRunnerStyleGame)](https://github.com/dgkanatsios/gaforgithub)
 
-# InfiniteRunner3D
+
 
 ![Infinite Runner](https://dgkanatsios.files.wordpress.com/2016/02/rotated.png)
 
